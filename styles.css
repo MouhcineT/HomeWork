@@ -1,0 +1,8 @@
+.image {
+    transform: rotate(270deg);
+    float: right;
+  }
+
+.title {
+    color: blue;
+}
