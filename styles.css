@@ -3,6 +3,9 @@
     float: right;
   }
 
-.title {
-    color: blue;
+h1 {
+   color: blue;
+}
+body {
+    background-color: bisque;
 }
