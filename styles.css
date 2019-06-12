@@ -1,13 +1,21 @@
 .image {
     transform: rotate(270deg);
+    padding-left: 50px;
+    padding-left: none;
     float: right;
   }
+.rounded {
+    border-radius: 100%;
+}
 
 h1 {
    color: blue;
 }
 body {
-    background-color: bisque;
+    background-color: black;
+}
+p {
+    color: aquamarine;
 }
 .button {
     width: 400px;
@@ -21,6 +29,6 @@ body {
     font-weight: 700;
     margin: 15px;
 }
-.on {
-    float: right;
+.timeline {
+    color: cornflowerblue;
 }
