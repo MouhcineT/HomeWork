@@ -9,3 +9,15 @@ h1 {
 body {
     background-color: bisque;
 }
+.botton {
+    width: 400px;
+    background-color: green;
+    padding: 10px 20px;
+    color: black;
+    text-align: center;
+    border: 1px solid blueviolet;
+    border-radius: 25px;
+    font-size: 16.6px;
+    font-weight: 700;
+    margin: 15px;
+}
