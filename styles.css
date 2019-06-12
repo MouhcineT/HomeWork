@@ -9,7 +9,7 @@ h1 {
 body {
     background-color: bisque;
 }
-.botton {
+.button {
     width: 400px;
     background-color: green;
     padding: 10px 20px;
@@ -20,4 +20,7 @@ body {
     font-size: 16.6px;
     font-weight: 700;
     margin: 15px;
+}
+.on {
+    float: right;
 }
