@@ -40,8 +40,12 @@ button {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5em;
 }
-
-td {
-    padding-left: 50px;
-    padding-right: 50px;
+}
+#totop {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 30px;
+    border: 3px solid #73AD21;
+    font-style: inherit;
 }
