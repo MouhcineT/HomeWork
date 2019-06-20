@@ -22,7 +22,11 @@ p {
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5em;
-    margin-right: 400px;
+    margin-left: 10px;
+}
+label {
+    margin: 0;
+    text-align: center;
 }
 
 
